@@ -1,6 +1,5 @@
 # PyAutoGUI Demo
 
-from turtle import clear
 import pyautogui
 import time
 
